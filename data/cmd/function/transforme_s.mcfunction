@@ -1,0 +1,1 @@
+$execute at @s align xyz run tp @n[type=block_display, scores={id=$(id)}] ~ ~ ~
